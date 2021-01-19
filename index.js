@@ -165,8 +165,3 @@ class Car {
 		return this;
 	}
 }
-
-let Tesla = new Car ('Tesla', 'model 3', '2000','100','10','3')
-
-
-console.log(Tesla)
